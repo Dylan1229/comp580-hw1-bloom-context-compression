@@ -900,3 +900,27 @@
 {"key": "3ae1eaaa33b25c1883544513abb66e438df344b9baeb051799c0c54b4df93221", "text": "Troazeillox", "latency": 0.5228783441707492, "prompt_tokens": 6438, "output_tokens": 4, "thought_tokens": 0}
 {"key": "d449771788e380f181ae0b1d956e73bfbd251fdd6d1ebf72a2661f50b9285c80", "text": "4", "latency": 1.875662854872644, "prompt_tokens": 6115, "output_tokens": 1, "thought_tokens": 0}
 {"key": "c2475e6a877031d6350556a307639ea648d5a10c05582f707b997b9f0770cf6d", "text": "10", "latency": 0.6029684320092201, "prompt_tokens": 13306, "output_tokens": 2, "thought_tokens": 0}
+{"key": "a1da2a3bb914ee8b157af81cc0d1344e50e9a21015df76d800626cbfcffd73c2", "text": "Slouvask", "latency": 0.719951031031087, "prompt_tokens": 15784, "output_tokens": 3, "thought_tokens": 0}
+{"key": "55833cd40f401b569ec150d854ece9b8bf3ab5a9630ed9177c5986120d103aa2", "text": "1", "latency": 0.502593460958451, "prompt_tokens": 2506, "output_tokens": 1, "thought_tokens": 0}
+{"key": "dd276438934358495eae03987030dba35a9559da86ace4ef243457bc22cd9b93", "text": "0", "latency": 0.6393183949403465, "prompt_tokens": 9018, "output_tokens": 1, "thought_tokens": 0}
+{"key": "b3eb3d5869e73a04621970077329590b215221e3513786cdb8bba792407f9fe9", "text": "30\u00b0 to 40\u00b0", "latency": 0.6367075049784034, "prompt_tokens": 9610, "output_tokens": 8, "thought_tokens": 0}
+{"key": "12cea821dd51810ac2689ea75ffb131edce6b5f0e3171c73d80c849e431c4272", "text": "1-13 meters", "latency": 0.6185399149544537, "prompt_tokens": 7075, "output_tokens": 5, "thought_tokens": 0}
+{"key": "d4f180f94d51430047d5686c74b762868f21ceb0d74d5efe966ab4bf4495c968", "text": "10", "latency": 0.7632905880454928, "prompt_tokens": 11672, "output_tokens": 2, "thought_tokens": 0}
+{"key": "efc762e54ea5e8ae3d46b388b3aecfcaac2a421a0eb85bbe55c48ef0f0163083", "text": "2 mGal", "latency": 0.5620714230462909, "prompt_tokens": 7321, "output_tokens": 3, "thought_tokens": 0}
+{"key": "afb5b2d4ab807394bdc0381a58badd3c7c2dc9349abf6a0a7ae1ca8849b84fcf", "text": "7 Hz", "latency": 0.5683762370608747, "prompt_tokens": 8862, "output_tokens": 2, "thought_tokens": 0}
+{"key": "b78f29e0d80725696438350cb7ce049f7a47c099ae0795af89bf3e15d23b350c", "text": "8", "latency": 5.266939498949796, "prompt_tokens": 4219, "output_tokens": 1, "thought_tokens": 0}
+{"key": "4b29840e06e82dfc95490624474be70759baceb1f053806fc4eec7b883be9cdb", "text": "150 and 1200 MHz", "latency": 0.6728527508676052, "prompt_tokens": 9794, "output_tokens": 10, "thought_tokens": 0}
+{"key": "70062f150126a7c58c1636f03d624d310e90297fbb6a1a769062a0d97dd78f9a", "text": "0.25 mrad", "latency": 0.7709431280381978, "prompt_tokens": 11969, "output_tokens": 6, "thought_tokens": 0}
+{"key": "ffa972dd6175253533f67939afa42c9ced79ce5e315e289fe3e0b0f2ab9e175b", "text": "13.3 million years", "latency": 0.7459896649233997, "prompt_tokens": 7624, "output_tokens": 6, "thought_tokens": 0}
+{"key": "aa75ecee6c389265ca4748c9c0f152fc4d76341abd641c8d141d402f94919b87", "text": "100 g", "latency": 0.5421695609111339, "prompt_tokens": 10323, "output_tokens": 4, "thought_tokens": 0}
+{"key": "15f3c6da122b213fcd787639bb846f2455387a1255aff90ca6e63f62b09702e0", "text": "stoping", "latency": 0.6902415479999036, "prompt_tokens": 8032, "output_tokens": 2, "thought_tokens": 0}
+{"key": "e236e02ebda0ef50b73a4efe98480e08ad59bea1b93c2fd75205d57a1d3c87c9", "text": "12", "latency": 0.8732611499726772, "prompt_tokens": 11623, "output_tokens": 2, "thought_tokens": 0}
+{"key": "4259ae011caa7e5e267e36c2e0487ad893013d22fcacabb46e1180a1aaac5b67", "text": "105 g", "latency": 0.8289431028533727, "prompt_tokens": 11823, "output_tokens": 4, "thought_tokens": 0}
+{"key": "f937d524ee83984613c99d8db58cb7cc3aa7ab62c45302bb5ba9e08f4aa0d7d0", "text": "GPR", "latency": 1.1777610019780695, "prompt_tokens": 9206, "output_tokens": 2, "thought_tokens": 0}
+{"key": "efbb6878f81c2503fcdd7db22de3d756629a6727506ebab1b56742584342a34d", "text": "20 m", "latency": 8.673649369971827, "prompt_tokens": 11192, "output_tokens": 3, "thought_tokens": 0}
+{"key": "7a1aa1dba0d05e31b1e35c72d7993f5a6c687a1ba49e5e2e9cd771d7464c7c97", "text": "1.2 mS/m", "latency": 0.6546842651441693, "prompt_tokens": 8948, "output_tokens": 7, "thought_tokens": 0}
+{"key": "33338ed53d5bd8db53e139ac0ead9262a5704ad59f40d0fc328c9e45192c088d", "text": "5 cm", "latency": 8.784990245942026, "prompt_tokens": 8402, "output_tokens": 2, "thought_tokens": 0}
+{"key": "01a55480ca3eba9312a82360ba2639da4d23ce8d742e3e2d8155fcbc5cc48aff", "text": "305 g", "latency": 0.5833548891823739, "prompt_tokens": 9026, "output_tokens": 4, "thought_tokens": 0}
+{"key": "78f312fa8bf79e8a115e93b724eaa36668064b27be3d79465e82ed89c377291a", "text": "25%", "latency": 0.6580427519511431, "prompt_tokens": 10787, "output_tokens": 3, "thought_tokens": 0}
+{"key": "aebb589bd1ef8e83439109803fc20cd76e9f5d277500768eee76a2a32ed46072", "text": "40 m", "latency": 0.6710760220885277, "prompt_tokens": 7877, "output_tokens": 3, "thought_tokens": 0}
+{"key": "e3586e70dfad9ee725ed02726a2b02b2d24847d760bb9232de485cde63b1d44f", "text": "Cueva de Los Naturalistas", "latency": 9.736558587057516, "prompt_tokens": 11508, "output_tokens": 6, "thought_tokens": 0}

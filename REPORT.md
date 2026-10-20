@@ -90,7 +90,7 @@ The full grid is in `results/sweep_offline.csv`. Retrieval takes about 0.12–0.
 | Bloom R=512, k=2 | 0.850 | 0.95 / 0.83 / 0.50 | 1 126 022 | 14 075 | 43.8 % | 0.942 | 123.5 KB | 0.97 s* |
 | Bloom R=512, k=3 | 0.838 | 0.93 / 0.88 / 0.42 | 902 762 | 11 284 | 35.5 % | 0.910 | 123.5 KB | 0.67 s |
 | Bloom R=512, k=6 | 0.825 | 0.93 / 0.79 / 0.50 | 844 725 | 10 559 | 33.2 % | 0.929 | 123.5 KB | 0.72 s |
-| Bloom R=512, k=8 | pending (quota) | | | | | | | |
+| Bloom R=512, k=8 | 0.812 | 0.93 / 0.75 / 0.50 | 902 194 | 11 277 | 35.2 % | 0.919 | 123.5 KB | 0.72 s |
 
 Tier sizes are T1 lookup (44), T2 multi-hop (24) and T3 aggregate (12).
 
