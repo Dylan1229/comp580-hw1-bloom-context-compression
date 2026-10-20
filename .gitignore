@@ -1,0 +1,4 @@
+data_repo/
+__pycache__/
+results/*.log
+*.pdf
