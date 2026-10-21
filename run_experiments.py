@@ -145,9 +145,8 @@ class QuotaExhausted(RuntimeError):
 
 class LLM:
     def __init__(self, model, cache_path, thinking_level=None, use_cache=True):
-        from google import genai
         from google.genai import types
-        self.client = genai.Client()
+        self.client = None  # created on the first cache miss, so cached runs need no API key
         self.types = types
         self.model = model
         kw = {"temperature": 0.0, "seed": SEED}
@@ -168,7 +167,11 @@ class LLM:
         key = hashlib.sha256((self.cfg_key + prompt).encode()).hexdigest()
         if self.use_cache and key in self.cache:
             return self.cache[key]
+        from google import genai
         from google.genai import errors
+        with self.lock:
+            if self.client is None:
+                self.client = genai.Client()
         attempts = 30
         for attempt in range(attempts):
             t0 = time.perf_counter()
