@@ -5,7 +5,7 @@ Fanjiang Ye (fy27), Kaijian Wang (kw118). Results, plots and answers to the ques
 Files
 - `bloom.py` — Bloom filter, bit-sliced per-chunk Bloom index, and the context compressor (no Bloom filter libraries; hashing = keyed BLAKE2b + enhanced double hashing).
 - `run_experiments.py` — runs every experiment (standalone FPR study, offline (R, k) sweep, Gemini baseline + Bloom runs) and writes CSVs and plots to `results/`.
-- `REPORT.md` — implementation, results, plots, answers to the questions.
+- `REPORT.pdf` / `REPORT.md` — implementation, results, plots, answers to the questions (same content).
 
 ## Setup
 

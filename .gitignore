@@ -2,3 +2,5 @@ data_repo/
 __pycache__/
 results/*.log
 *.pdf
+!REPORT.pdf
+*.zip
