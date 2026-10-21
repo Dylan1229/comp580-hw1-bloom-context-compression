@@ -1,6 +1,6 @@
 # HW1 Report — Bloom Filters for LLM Context Compression
 
-COMP 480/580, Fall 2026 · Fanjiang Ye (fy27), Kaijian Wang (kw118) · Code: https://github.com/Dylan1229/comp580-hw1-bloom-context-compression
+COMP 480/580, Fall 2026 · Fanjiang Ye (fy27) · Code: https://github.com/Dylan1229/comp580-hw1-bloom-context-compression
 
 ## 1. Method
 

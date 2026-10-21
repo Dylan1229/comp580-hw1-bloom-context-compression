@@ -1,6 +1,6 @@
 # COMP 480/580 HW1 — Bloom Filters for LLM Context Compression
 
-Fanjiang Ye (fy27), Kaijian Wang (kw118). Results, plots and answers to the questions: [REPORT.md](REPORT.md).
+Fanjiang Ye (fy27). Results, plots and answers to the questions: [REPORT.md](REPORT.md).
 
 Files
 - `bloom.py` — Bloom filter, bit-sliced per-chunk Bloom index, and the context compressor (no Bloom filter libraries; hashing = keyed BLAKE2b + enhanced double hashing).
